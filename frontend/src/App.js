@@ -1,5 +1,10 @@
-// Page imports
+// Component imports
 import Header from './components/header';
+
+// Page Imports
+import AboutMe from './pages/aboutme';
+import Home from './pages/home';
+import QAexp from './pages/qaexperience';
 
 // CSS import
 import './App.css';
@@ -12,6 +17,10 @@ function App() {
   return (
     <div className="App">
       <Header />
+      <Routes>
+        <Route exact path="/" element={<Home />} />
+
+      </Routes>
 
       
     </div>

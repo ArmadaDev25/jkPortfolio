@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Hereos.io",
+      "live": "https://armadadev25.github.io/heroes.io/",
+      "git": "https://github.com/ArmadaDev25/heroes.io",
+      "image": "https://i.imgur.com/7hMlx6J.png"
+    },
+    {
+      "name": "WarhammerMuster.com",
+      "live": "https://warhammer-muster-a5ef2c39f109.herokuapp.com",
+      "git": "https://github.com/ArmadaDev25/WarhammerListBuilderApp",
+      "image": "https://i.imgur.com/p7lZigP.png"
+    }
+]
